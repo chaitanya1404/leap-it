@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/LIT" mode="merge"/>
+    <filter root="/content/LIT" mode="merge"/>
+    <filter root="/content/dam/LIT/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/LIT" mode="merge"/>
+</workspaceFilter>

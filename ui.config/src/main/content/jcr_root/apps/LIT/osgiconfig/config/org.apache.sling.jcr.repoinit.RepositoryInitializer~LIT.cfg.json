@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/LIT",
+        "create path (nt:unstructured) /content/dam/LIT/jcr:content",
+        "set properties on /content/dam/LIT/jcr:content\n  set cq:conf{String} to /conf/LIT\n  set jcr:title{String} to \"Leap IT Project\"\nend"
+    ]
+}
